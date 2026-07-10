@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Karki</h1>
-<h3 align="center">A passionate System Engineer from INDIA</h3>
+
 
 - 🌱 I am currently Pursuing Data Science in haldwani.  
 - 👯 I’m actively looking to collaborate on open-source projects on GitHub.  
