@@ -52,17 +52,21 @@
 
 ## 🔥 GitHub Stats
 
+<## 🔥 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NehaKarki-35&theme=transparent&hide_border=true" width="75%" alt="Neha Karki's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaKarki-35&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NehaKarki-35&show_icons=true&theme=transparent&hide_border=true" width="75%" alt="Neha Karki's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NehaKarki-35&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaKarki-35&layout=compact&theme=transparent&hide_border=true" width="50%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaKarki-35&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
+
+---
 
 ---
 
