@@ -12,21 +12,21 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/duongminh318/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;SYSTEM%20ENGINEER;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=500&height=35&color=20C20E&vCenter=true&pause=1000&size=22"/>
+  <a href="https://github.com/NehaKarki-35">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Data+Analysis+%7C+Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
-<a href="https://github.com/duongminh318">
-  <img src="contributions.svg" alt="GitHub Contributions Snake"/>
+<a href="https://github.com/NehaKarki-35">
+  <img src="https://raw.githubusercontent.com/NehaKarki-35/NehaKarki-35/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duongminh318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="150"/>
+  <img src="https://komarev.com/ghpvc/?username=NehaKarki-35&label=Profile%20Views&color=0E75B6&style=flat" alt="Profile Views"/>
 </p>
 
 <div align="center">
-  <img src="images/ChatGPT Image Jun 4, 2025, 10_31_12 AM.png" alt="Motivation Banner" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Neha%20Karki&fontSize=50&fontColor=ffffff&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=70"/>
 </div>
 
 ---
