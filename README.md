@@ -70,18 +70,23 @@
 </p>
 ---
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<div align="center">
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook"/>
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/NehaKarki-35" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="YouTube"/>
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-</div>
+
+  <a href="mailto:nehakarki974@gmail.com">
+    <img src="https://img.icons8.com/bubbles/100/000000/new-post.png" alt="Email"/>
+  </a>
+</p>
+
+---
 
 ---
 
