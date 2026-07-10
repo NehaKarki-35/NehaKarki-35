@@ -5,7 +5,7 @@
 - 👯 I’m actively looking to collaborate on open-source projects on GitHub.  
 - 🤔 I’m seeking support and mentorship to improve my coding skills and learn new technologies.  
 - 🚀 Skills: HTML, CSS, Python, AI, ML, Git.
-- 💻 I'm currently working on an **LangChain** project, building a full-featured web application using modern web development practices (C#, EF Core, SQL Server, API).  
+
 - 📫 How to reach me: [nehakarki974@gmail.com](mailto:nehakarki974@gmail.com)  
 - 🔔 **Feel free to follow me on GitHub to stay updated on my latest projects and contributions!**  
 
